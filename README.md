@@ -12,4 +12,4 @@ It features a fixed navigation bar with links, social media icons, reactive styl
 
 <b><ins>Live Deployment Link:</ins></b>
 <br>
-<del>link</del>
+[Live Preview](https://myroninja.github.io/coding-challenge-01/)
