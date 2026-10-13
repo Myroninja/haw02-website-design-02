@@ -1,8 +1,8 @@
-# coding-challenge-01
+# haw02-website-design-02
 
 <b><ins>Challenge:</ins></b>
 <br>
-Create a personal portfolio webpage showcasing your skills, projects, and contact information using HTML and CSS.
+Create a portfolio webpage showcasing navigation to skills, projects, about, and contact using HTML and CSS.
 
 <b><ins>What I Built:</ins></b>
 <br>
@@ -12,4 +12,4 @@ It features a fixed navigation bar with links, social media icons, reactive styl
 
 <b><ins>Live Deployment Link:</ins></b>
 <br>
-[Live Preview](https://myroninja.github.io/coding-challenge-01/)
+[Live Preview](https://myroninja.github.io/haw02-website-design-02/)
